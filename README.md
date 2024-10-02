@@ -1,5 +1,6 @@
 # All Information About This Repository
 
+- Started in 2021, last updated 2022.
 - First actual project made with HTML and CSS. I'm kind of a beginner so feel free to give some feedback so I can improve this more and more.
 - First version completed in an hour or two.
 - I spent like the entire day redoing this website lol!
